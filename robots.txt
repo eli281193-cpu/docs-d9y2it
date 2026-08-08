@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-90wbx5.antam89.site/sitemap.xml
